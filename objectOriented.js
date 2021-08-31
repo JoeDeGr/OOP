@@ -1,7 +1,7 @@
 //encapsulation, reduce functional paramaters as much as possible.
 
 
-let employee = {
+const employee = {
     salary: 45000,
     totalOvertime: 10,
     overtimeHourlyRate: function () {
