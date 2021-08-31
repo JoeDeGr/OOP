@@ -5,4 +5,3 @@ let overtimeHourlyRate = salary / 2000 * 1.5;
 function compensation(salary, totalOvertime, overtimeHourlyRate) {
     return salary + (totalOvertime * overtimeHourlyRate)
 }
-
